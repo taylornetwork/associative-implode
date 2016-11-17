@@ -1,0 +1,15 @@
+{
+    "name": "taylornetwork/laravel-helpers",
+    "description": "A collection of Laravel helpers",
+    "require": {
+        "php": ">=5.4.0",
+        "laravel/framework": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam Taylor",
+            "email": "sam@taylornetwork.ca"
+        }
+    ]
+}
